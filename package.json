@@ -1,0 +1,13 @@
+{
+  "name": "bgal",
+  "version": "0.0.0",
+  "description": "a big gallery",
+  "main": "main.js",
+  "author": "Carlos Rodriguez <carlos@s8f.org>",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.2",
+    "electron-prebuilt": "^0.28.2",
+    "idgen": "^2.0.2"
+  }
+}
